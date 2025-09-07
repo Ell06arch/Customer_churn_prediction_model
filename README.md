@@ -111,6 +111,3 @@ This model provides actionable intelligence rather than just predictions:
 * **Operational Strategy**: Insights on why customers churn (e.g., poor support, competitor offers) inform broader business improvements.
 
 By deploying this model, the business can move from reactive to proactive retention—saving costs on unnecessary campaigns and maximizing the return on retention investments.
-
-* Normalized high-variance numerical variables to stabilize the model.
-
